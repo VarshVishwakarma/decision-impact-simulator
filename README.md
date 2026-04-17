@@ -54,3 +54,8 @@ decision_simulator.py: The main application script containing data generation, m
 Why this matters
 
 In many real-world applications (fraud detection, medical diagnosis, manufacturing QA), the cost of errors is asymmetric. A False Negative might cost $100, while a False Positive costs only $5. This tool helps visualize why the default decision threshold of 0.5 is rarely the most profitable choice in these scenarios.
+
+🧑‍💻 Author
+
+Varsh Vishwakarma
+AI • ML • DL • Data Science • Cloud • Full-Stack ML Developer
